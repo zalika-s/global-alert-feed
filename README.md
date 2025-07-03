@@ -5,7 +5,7 @@
 
 A full-stack simulation of an airline operations alert monitoring system. Built with **React** (Vite) on the frontend and **ASP.NET Core Web API** on the backend, this project demonstrates distributed thinking, object-oriented programming, and CI/CD integration in a real-world aviation context.
 
-> 🚧 This project is a work in progress — built as part of my application for the 2025–2026 Graduate Software Engineer roles in New Zealand, particularly with a long-term focus on airline technology.
+> 🚧 This project is a work in progress — built as part of my passion for learning - particularly with a long-term focus on airline technology.
 
 ## 🛫 Aviation-Driven Concept
 Inspired by my interest in aviation systems and airline operations, this alert system mimics how airline ops teams might monitor global disruptions—ranging from airport delays to IT outages. The feed displays alerts by severity, airport zone, and event category.
